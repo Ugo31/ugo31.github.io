@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="taiwan traffic board.svg"
+   inkscape:export-filename="D:\Scratch\scooter_sim\assets\images\taiwan traffic board.png"
+   inkscape:export-xdpi="143.98322"
+   inkscape:export-ydpi="143.98322"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1550064"
+     inkscape:cx="81.817728"
+     inkscape:cy="329.8683"
+     inkscape:window-width="3840"
+     inkscape:window-height="2120"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke-width:1;stroke:none;stroke-opacity:1;fill-opacity:1"
+       id="rect857"
+       width="300"
+       height="300"
+       x="-52.643707"
+       y="-22.83927"
+       inkscape:export-filename="D:\Scratch\scooter_sim\assets\images\taiwan traffic board.png"
+       inkscape:export-xdpi="143.98322"
+       inkscape:export-ydpi="143.98322" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layout"
+     style="display:inline">
+    <g
+       id="g1450">
+      <rect
+         style="fill:#0e9891;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+         id="rect857-4"
+         width="300"
+         height="300"
+         x="-52.643707"
+         y="-22.839256"
+         inkscape:export-filename="D:\Scratch\scooter_sim\assets\images\taiwan traffic board.png"
+         inkscape:export-xdpi="143.98322"
+         inkscape:export-ydpi="143.98322" />
+      <path
+         style="fill:#8d0e98;fill-opacity:1;stroke:#ca1dbe;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -52.643706,-22.839256 247.35629,277.16072"
+         id="path1241" />
+      <path
+         style="fill:#8d0e98;fill-opacity:1;stroke:#ca1dbe;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -52.643697,277.16072 247.35629,-22.839256"
+         id="path1241-9" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Notice"
+     style="display:inline">
+    <g
+       id="g884"
+       transform="matrix(0.73013355,0,0,0.86149268,-13.484877,25.569716)"
+       inkscape:export-filename="D:\Scratch\scooter_sim\assets\images\taiwan traffic board.png"
+       inkscape:export-xdpi="143.98322"
+       inkscape:export-ydpi="143.98322">
+      <rect
+         style="fill:#e21313;fill-opacity:1;stroke:none;stroke-width:12;stroke-miterlimit:4;stroke-dasharray:24, 12;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect53-3-3"
+         width="163.96475"
+         height="163.64053"
+         x="-49.389442"
+         y="-17.131704"
+         rx="9.4687042"
+         ry="11.006957"
+         inkscape:transform-center-x="39.187308"
+         inkscape:transform-center-y="-30.131406" />
+      <g
+         id="g9271"
+         transform="matrix(0.99501643,0,0,1,-63.023751,-32.985756)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2523"
+           width="166.35411"
+           height="25.916901"
+           x="13.120432"
+           y="32.882069" />
+        <rect
+           style="fill:#e21313;fill-opacity:1;stroke:none;stroke-width:1.00639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2523-9"
+           width="166.35411"
+           height="25.916901"
+           x="13.120432"
+           y="58.798969" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2523-0"
+           width="166.35411"
+           height="25.916901"
+           x="13.120432"
+           y="84.715866" />
+        <rect
+           style="fill:#e21313;fill-opacity:1;stroke:none;stroke-width:1.00639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2523-9-9"
+           width="166.35411"
+           height="25.916901"
+           x="13.120432"
+           y="110.63277" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2523-9-9-1"
+           width="166.35411"
+           height="25.916901"
+           x="13.120438"
+           y="136.54967" />
+      </g>
+      <g
+         id="g9271-3"
+         transform="matrix(0,-0.98425358,1,0,-63.432228,159.4836)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2523-5"
+           width="166.35411"
+           height="25.916901"
+           x="13.120432"
+           y="32.882069" />
+        <rect
+           style="fill:#e21313;fill-opacity:1;stroke:none;stroke-width:1.00639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2523-9-8"
+           width="166.35411"
+           height="25.916901"
+           x="13.120432"
+           y="58.798969" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2523-0-7"
+           width="166.35411"
+           height="25.916901"
+           x="13.120432"
+           y="84.715866" />
+        <rect
+           style="fill:#e21313;fill-opacity:1;stroke:none;stroke-width:1.00639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2523-9-9-0"
+           width="166.35411"
+           height="25.916901"
+           x="13.120432"
+           y="110.63277" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00639;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect2523-9-9-1-1"
+           width="166.35411"
+           height="25.916901"
+           x="13.120438"
+           y="136.54967" />
+      </g>
+      <rect
+         style="fill:#e2e213;fill-opacity:1;stroke:none;stroke-width:0.929074;stroke-dasharray:0.929074, 0.929074;stroke-opacity:1"
+         id="rect53-3"
+         width="149.07072"
+         height="149.07047"
+         x="-41.942528"
+         y="-9.8466702"
+         rx="8.6085978"
+         ry="10.02693"
+         inkscape:transform-center-x="35.627655"
+         inkscape:transform-center-y="-27.448593" />
+    </g>
+  </g>
+</svg>

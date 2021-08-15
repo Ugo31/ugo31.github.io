@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"configurations": [
+			{
+				"type": "pwa-msedge",
+				"name": "http://localhost:9080",
+				"request": "launch",
+				"url": "http://localhost:9080"
+			}
+		]
+	}
+}
